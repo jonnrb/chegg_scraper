@@ -1,0 +1,19 @@
+{
+  "name": "chegg_scraper",
+  "version": "1.0.0",
+  "description": "Tool to scrape textbook solutions from Chegg.",
+  "main": "chegg_scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonNRb/chegg_scraper.git"
+  },
+  "author": "JonNRb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonNRb/chegg_scraper/issues"
+  },
+  "homepage": "https://github.com/JonNRb/chegg_scraper#readme"
+}
